@@ -1,0 +1,1 @@
+John Doe\nData Analyst\nExperience: 3 years in Python, SQL, Excel\nWorked on dashboards and ETL
