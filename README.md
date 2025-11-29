@@ -139,6 +139,7 @@ $env:OPENAI_API_KEY="your_api_key_here"
 
 5. Run the App
 streamlit run app.py
+<img width="1024" height="1536" alt="architecture" src="https://github.com/user-attachments/assets/ad295071-f988-4fdf-991e-baf8e515c7e3" />
 
 
 Your local app will open automatically at:
